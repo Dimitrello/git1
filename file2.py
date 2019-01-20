@@ -1,1 +1,2 @@
-import file1
+
+print(10)
